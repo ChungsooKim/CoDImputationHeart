@@ -1,4 +1,4 @@
-CauseOfDeathImputation package
+CoDImputationHeart package
 ========================================================
 
 
@@ -30,7 +30,7 @@ Instructions To Run Package
 
 
 ```r
-library(CauseOfDeathImputation)
+library(CoDImputationHeart)
 
 # USER INPUTS
 #=======================
